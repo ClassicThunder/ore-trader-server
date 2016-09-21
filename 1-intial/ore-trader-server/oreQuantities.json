@@ -1,0 +1,18 @@
+{
+	"bronze": {
+		"quantity": 750.0,
+		"pricePerOre": 25.0
+	},
+	"copper": {
+		"quantity": 5.0,
+		"pricePerOre": 10.0
+	},
+	"adamantium": {
+		"quantity": 5.0,
+		"pricePerOre": 100000.0
+	}, 
+	"silver": {
+		"quantity": 25.0,
+		"pricePerOre": 100.0
+	}
+}
